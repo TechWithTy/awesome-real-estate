@@ -37,6 +37,11 @@
 - [PropertyWebBuilder](https://github.com/etewiah/property_web_builder) - Powerful, quick property listings website builder.
 - [HomeHarvest](https://github.com/Bunsly/HomeHarvest) - Python package for scraping real estate property data.
 - [Real Estate Data Scraper](https://github.com/oxylabs/scraping-real-estate-data-with-python) - A Python-based tool for scraping real estate property data from various listing websites.
+- [real-estate-calculations](https://github.com/biegehydra/real-estate-calculations) - TypeScript functions for evaluating rental investment performance.
+- [real-estate-roi-calculator](https://github.com/Alirazahaider/real-estate-roi-calculator) - TypeScript utility for computing rental investment metrics.
+- [Real-Estate-Financial-Analytics-Dashboard](https://github.com/YSayaovong/Real-Estate-Financial-Analytics-Dashboard) - A Power BI and PostgreSQL dashboard for long-term rental property financial analysis.
+- [Investment Portfolio Optimization](https://github.com/MarionJelimo/real-estate-investment-portfolio-optimization-using-time-series) - A project for time series forecasting of property values.
+- [Real Estate Price Prediction Project](https://github.com/shanuhalli/Project-Real-Estate-Price-Prediction) - An end-to-end data science project for real estate price prediction.
 
 ## Resources
 
@@ -82,6 +87,7 @@
 - [HouseCanary](https://www.housecanary.com/) - Provides real estate data and analytics, including home valuation models and market forecasting.
 - [CompStak](https://www.compstak.com/) - Offers crowdsourced commercial real estate data, focusing on lease and sales comparables.
 - [Reonomy](https://www.reonomy.com/) - Provides detailed commercial real estate data and analytics, including property records and ownership information.
+- [HomesToCompare](https://homestocompare.com/) - A tool for side-by-side property comparison with AI-powered insights.
 
 ### CRMs
 
@@ -91,6 +97,7 @@
 - [LionDesk](https://www.liondesk.com/) - A CRM platform designed for real estate professionals, offering features like automated follow-ups, email and text marketing, and transaction management.
 - [Wise Agent](https://www.wiseagent.com/) - Provides a comprehensive suite of tools including contact management, transaction tracking, and marketing automation tailored for real estate agents.
 - [Top Producer](https://www.topproducer.com/) - A CRM solution that helps real estate professionals manage leads, contacts, and follow-ups, with integration capabilities for various lead sources.
+- [Lone Wolf](https://www.lwolf.com/) - A comprehensive real estate platform with CRM, transaction management, and accounting tools.
 
 ### Educational Resources
 
@@ -98,11 +105,26 @@
 - [Masterclass: Real Estate](https://www.masterclass.com/) - Professional real estate courses from industry experts.
 - [Udemy Real Estate Courses](https://www.udemy.com/topic/real-estate/) - Offers a variety of courses covering real estate investing, property management, and market analysis.
 
+### Gamification
+
+- [House Price Guess](https://housepriceguess.com/) - A fun game that challenges you to guess the prices of properties.
+
 ### Visualization Tools
 
 - [Matterport](https://www.matterport.com/) - A 3D visualization platform for real estate professionals to create immersive virtual tours of properties.
 - [Cubicasa](https://www.cubicasa.com/) - A fast and accurate floor plan generation tool for real estate listings.
 - [iGUIDE](https://goiguide.com/) - Provides interactive 3D tours and floor plans for real estate listings.
+
+### Foundational Geospatial & Urban Data
+
+- [Awesome Spatial Data](https://github.com/bchapuis/awesome-spatial-data) - A meta-list for foundational global spatial datasets.
+- [Awesome Urban Datasets](https://github.com/urban-toolkit/awesome-urban-datasets) - Curated public datasets for urban planning.
+- [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial) - A broad compilation of geospatial tools and resources.
+
+### Authoritative Research & Publications
+
+- [Emerging Trends in Real Estate®](https://www.pwc.com/us/en/industries/financial-services/asset-wealth-management/real-estate/emerging-trends-in-real-estate-pwc-uli.html) - An annual forecast report on investment and development trends.
+- [PropTech Books](https://www.proptechbuzz.com/blog/proptech-books) - A compilation of essential books for understanding PropTech.
 
 ## Software
 
@@ -112,6 +134,11 @@
 - [Rets Rabbit](http://www.retsrabbit.com) - Import real estate listings and photos from RETS or ListHub.
 - [Zoo Property](http://www.zooproperty.com/api/) - RESTful API to manage property listings.
 - [ATTOM Data Solutions API](https://www.attomdata.com/solutions/property-data-api/) - Offers comprehensive property data, including ownership, mortgage, and neighborhood information.
+- [Gridics Zoning Data API](https://gridics.com/zoning-data-api/) - Provides parcel-level zoning, development capacity, and setback data.
+- [Zoneomics API](https://www.zoneomics.com/pricing/api) - Offers scalable and flexible API options for integrating zoning data.
+- [HouseCanary Core API](https://www.housecanary.com/pricing) - Access to the core API, CanaryAI, and AVM reports for advanced property valuation modeling.
+- [RentCast API](https://www.rentcast.io/api) - Scalable API for rental estimates, market data, and portfolio monitoring.
+- [RealEstateAPI.com](http://www.realestateapi.com/) - API designed for PropTech solutions with unlimited property data and integrated machine-learning capabilities.
 
 ### Lead Page Builders
 
@@ -123,6 +150,10 @@
 
 - [Listerswebs](https://listerswebs.com) - All-inclusive, fully custom website suite built specifically for marketing to home sellers.
 - [Easy Agent PRO](https://www.easyagentpro.com/) - Provides customizable real estate websites with integrated CRM and lead generation tools.
+
+### Marketing
+
+- [PropertySquares](https://propertysquares.com/) - A newsletter platform for property curators to create and share listings with commentary.
 
 ## License
 
