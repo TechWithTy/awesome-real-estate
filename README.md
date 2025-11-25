@@ -140,6 +140,14 @@
 - [RentCast API](https://www.rentcast.io/api) - Scalable API for rental estimates, market data, and portfolio monitoring.
 - [RealEstateAPI.com](http://www.realestateapi.com/) - API designed for PropTech solutions with unlimited property data and integrated machine-learning capabilities.
 
+### AI & Automation Platforms
+
+- **Deal Scale** — https://DealScale.io  
+  AI Wealth Engine for real estate teams, investors, and agents. Provides automated follow-up, voice-cloned calling, skip tracing, CRM sync, lead scoring, enrichment, analytics, and plug-and-play AI workflows. Integrates with major CRMs (GoHighLevel, Lofty, Zoho, Follow Up Boss, Salesforce, etc.).
+
+- **Lead Orchestra (Coming Soon)** — https://LeadOrchestra.com  
+  Open-source MCP + API aggregator for scraping, crawling, and normalizing real-estate-related data. Designed to pipe enriched and structured lead data directly into Deal Scale or any CRM/automation system. Includes modular scrapers, enrichment pipelines, and export formats.
+
 ### Lead Page Builders
 
 - [SinglePropertyPages](https://singlepropertypages.com) - Affordable and easy-to-use lead page builder.
